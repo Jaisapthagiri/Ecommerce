@@ -12,7 +12,6 @@ import order_icon from "./order_icon.svg";
 import upload_area from "./upload_area.png";
 import profile_icon from "./profile_icon.png";
 import menu_icon from "./menu_icon.svg";
-import box_icon from "./box_icon.svg";
 import black_arrow_icon from "./black_arrow_icon.svg";
 import white_arrow_icon from "./white_arrow_icon.svg";
 import main_banner_bg from "./main_banner_bg.jpeg";
@@ -48,7 +47,6 @@ export const assets = {
   main_banner_bg,
   bottom_banner_image,
   add_address_iamge,
-  box_icon,
 };
 
 export const categories = [

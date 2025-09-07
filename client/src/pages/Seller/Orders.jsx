@@ -36,7 +36,7 @@ const Orders = () => {
                         <div className="flex gap-5 max-w-80">
                             <img
                                 className="w-12 h-12 object-cover"
-                                src={assets.box_icon}
+                                src={assets.star_icon}
                                 alt="boxIcon"
                             />
                             <div>
