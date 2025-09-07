@@ -59,15 +59,29 @@ npm install
 
 In the backend folder, create a .env file with the following:
 
+## Frontend : 
+
+VITE_CURRENCY=
+
+VITE_BACKEND_URL=
+
+
+## Backend
+
 MONGO_URI=
+
 JWT_SECRET=
+
 NODE_ENV=
 
 SELLER_EMAIL=
+
 SELLER_PASSWORD=
 
 CLOUDINARY_CLOUD_NAME=
+
 CLOUDINARY_API_KEY=
+
 CLOUDINARY_API_SECRET=
 
 
@@ -151,6 +165,52 @@ GET /api/address/get → Get Address
 ## Cart
 
 POST /api/user/cart → Add Products to Cart
+
+## Libraries Used
+
+  ## FrontEnd
+    
+    react – UI library
+
+    react-dom – React DOM rendering
+    
+    tailwindcss – Utility-first CSS framework
+    
+    @tailwindcss/vite – Tailwind with Vite
+    
+    react-router-dom – Routing for React
+    
+    axios – HTTP requests library
+    
+    react-hot-toast – Toast notifications
+    
+    lucide-react – Icons for React
+    
+    router – Lightweight router
+    
+    dom – DOM utilities helper
+
+    
+  ## BackEnd
+
+    express – Web framework
+
+    mongoose – MongoDB ORM
+    
+    dotenv – Environment variables
+    
+    jsonwebtoken – JWT authentication
+    
+    bcryptjs – Password hashing
+    
+    cors – Cross-origin requests
+    
+    cookie-parser – Parse cookies
+    
+    multer – File uploads
+    
+    cloudinary – Image/video hosting
+
 
 ## 🤝 Contributing
 
