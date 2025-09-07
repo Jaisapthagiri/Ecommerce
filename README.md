@@ -9,25 +9,6 @@ Customers can browse products, manage carts and orders; admins/sellers can manag
 
 ---
 
-## 📌 Notes
-
-**Repository**
-GitHub Repo: [https://github.com/Jaisapthagiri/Ecommerce](https://github.com/Jaisapthagiri/Ecommerce)
-Check this repository for further reference — it comes with a detailed README file.
-
----
-
-## 🔐 Important Instructions
-
-**Admin Login Credentials**
-
-* Email: `admin@gmail.com`
-* Password: `ben10`
-
-If you face any issues in Chrome, try using a different browser.
-
----
-
 ## 🚀 Features
 
 ### User
