@@ -1,7 +1,3 @@
-Here’s a clean, corrected, and well-ordered README you can paste over your current one:
-
----
-
 # 🛒 Ecommerce
 
 A full-featured Ecommerce platform built with the **MERN Stack** and styled using **Tailwind CSS v4**.
@@ -225,5 +221,3 @@ Fork the repo and open a pull request with your improvements.
 This project is licensed under the **MIT License**.
 
 ---
-
-If you want, I can also split “Installation & Setup” into separate **client/server README snippets** for quick copy-paste inside each folder.
