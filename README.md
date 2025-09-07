@@ -114,7 +114,7 @@ npm run dev
 
 ```bash
 cd server
-npm run dev
+npm run server
 ```
 
 ---
